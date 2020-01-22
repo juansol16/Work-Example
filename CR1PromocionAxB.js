@@ -4,11 +4,11 @@
 *   FECHA:           18.06.2019
 *   COMENTARIOS:     Creación del archivo.
 
-*   AUTOR:           Mario Lopez
+*   AUTOR:           ----------
 *   FECHA:           09.07.2019
 *   COMENTARIOS:     Agregado el eliminar, el crear y los collapse
 
-    AUTOR:           Diego Hernandez
+    AUTOR:           ----------
 *   FECHA:           22.11.2019
 *   COMENTARIOS:     Agregado de validaciones
 **/
